@@ -177,7 +177,7 @@
   </script>
 </head>
 <body class="hold-transition">
-  <!-- Navbar -->
+  <!-- Navbars -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#">
       <img src="<?= validate_image($_settings->info('logo')) ?>" alt="Logo" style="border-radius: 50%; height: 50px; width: 50px; object-fit: cover; display: inline-block; vertical-align: middle;">
